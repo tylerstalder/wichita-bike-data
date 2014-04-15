@@ -1,0 +1,201 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.334457,
+          37.685204
+        ]
+      },
+      "properties": {
+        "name": "Bike Rack",
+        "flickr_id": "13803781283"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.334951,
+          37.685934
+        ]
+      },
+      "properties": {
+        "name": "Bike Rack",
+        "flickr_id": "13803762105"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.334725,
+          37.685942
+        ]
+      },
+      "properties": {
+        "name": "Bike Rack",
+        "flickr_id": "13803784413"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.338867,
+          37.686299
+        ]
+      },
+      "properties": {
+        "name": "Bike Rack",
+        "flickr_id": "13804111614"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.342289,
+          37.681807
+        ]
+      },
+      "properties": {
+        "name": "Bike Rack",
+        "flickr_id": "13803772555"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.338577,
+          37.684542
+        ]
+      },
+      "properties": {
+        "name": "Bike Rack",
+        "flickr_id": "13803775115"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.338588,
+          37.684261
+        ]
+      },
+      "properties": {
+        "name": "Bike Rack",
+        "flickr_id": "13803796903"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.337332,
+          37.683888
+        ]
+      },
+      "properties": {
+        "name": "Bike Rack",
+        "flickr_id": "13803777355"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.339178,
+          37.680262
+        ]
+      },
+      "properties": {
+        "name": "Bike Rack",
+        "flickr_id": "13803778165"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.33626,
+          37.685076
+        ]
+      },
+      "properties": {
+        "name": "Bike Rack",
+        "flickr_id": "13803758765"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.333706,
+          37.684949
+        ]
+      },
+      "properties": {
+        "name": "Bike Rack",
+        "flickr_id": "13803781115"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.331088,
+          37.683905
+        ]
+      },
+      "properties": {
+        "name": "Bike Rack",
+        "flickr_id": "13803782165"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.331174,
+          37.68264
+        ]
+      },
+      "properties": {
+        "name": "Bike Rack",
+        "flickr_id": "13803785275"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.32685,
+          37.68275
+        ]
+      },
+      "properties": {
+        "name": "Bike Rack",
+        "flickr_id": "13803786655"
+      }
+    }
+  ]
+}
